@@ -11,7 +11,7 @@ body.login-pf {
 #badge {
     width: 225px;
     height: auto;
-    background-image: url("http://s3.amazonaws.com/quadmg/img/p/quad.png");
+    background-image: url("quad.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
