@@ -1,0 +1,26 @@
+body.login-pf {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+	background: -webkit-linear-gradient(top, #ffffff 0%, #e5e5e5 100%) no-repeat fixed #ffffff;
+	background: -moz-linear-gradient(top, #ffffff 0%, #e5e5e5 100%) no-repeat fixed #ffffff;
+	background: linear-gradient(to bottom, #ffffff 0%, #e5e5e5 100%) no-repeat fixed #ffffff;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 );
+}
+
+#badge {
+    width: 225px;
+    height: auto;
+    background-image: url("https://s3.amazonaws.com/quadmg/img/p/quad.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#brand {
+    font-size: 18pt;
+    text-transform: uppercase;
+    content: "${NAME}";
+}
+
+#index-brand {
+    content: "${NAME}";
+}
