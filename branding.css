@@ -9,9 +9,9 @@ body.login-pf {
 }
 
 #badge {
-    width: 225px;
-    height: auto;
-    background-image: url("quad.png");
+    width: 250px;
+    height: 42px;
+    background-image: url("https://s3.amazonaws.com/quadmg/img/p/quad.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
